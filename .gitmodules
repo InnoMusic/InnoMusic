@@ -1,6 +1,6 @@
-[submodule "inno_music_frontend"]
-	path = inno_music_frontend
-	url = https://github.com/DrunkenElf/inno_music_frontend.git
-[submodule "inno_music_backend"]
-	path = inno_music_backend
-	url = https://github.com/DrunkenElf/inno_music_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/InnoMusic/frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/InnoMusic/backend
